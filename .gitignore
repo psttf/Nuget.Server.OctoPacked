@@ -1,0 +1,15 @@
+syntax: glob
+bin
+obj
+*.user
+*.suo
+packages
+Debug
+Release
+*.sublime-workspace
+*.csproj.DotSettings
+Thumbs.db
+UpgradeLog*.htm
+UpgradeLog.htm
+published
+/out/
